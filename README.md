@@ -21,3 +21,6 @@ Una vez `pip` ha terminado de instalar las dependencias:
 (env)$ python manage.py runserver
 ```
 y navega a: `http://127.0.0.1:8000/`
+
+
+Despliegue en: https://booking-db1.herokuapp.com/
