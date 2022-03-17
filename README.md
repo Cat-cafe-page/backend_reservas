@@ -1,11 +1,11 @@
 # Backend_reservas
 
-El presente codigo permite al usuario crear, ver, editar o eliminar las reservas realizadas y al mismo tiempo gestionar los planes que se ofrecen a los turistas.
+El presente codigo permite al usuario crear, ver, editar o eliminar las reservas realizadas y al mismo tiempo gestionar los planes que se ofrecen a los clientes.
 
 Lo primero por hacer es clonar el repositorio:
 
 ```sh
-$ git clone https://github.com/MisionTic-P5-Grupo3/Bioparque_Frontend.git
+$ git clone https://github.com/Cat-cafe-page/backend_reservas.git
 $ cd Backend_reservas
 ```
 
